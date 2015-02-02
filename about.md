@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+description: "This is what I do."
+header-img: "img/about-bg.jpg"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Born in 1970, i live since then in a small village in bavaria. I am a husband and a proud father of two daughters.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+A long time ago i made my degree in architecture, soon realizing being more interested in computers. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+> curiosity drives everything i do and try
+
+I use Linux since around 2000 and tinker with nagios since 2005. In the meantime i became some kind of expert in system monitoring, but i have a strong interest in many aspects of modern computing - ranging from web development to systems management.
+

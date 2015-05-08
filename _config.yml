@@ -1,8 +1,8 @@
 # Site settings
 title: jetzatle
-header-img:
+header-img: "img/bg.jpg"
 email: email.kraus@gmail.com
-description: "So many ideas, so little time"
+description: "This is what i do"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: jetzatle

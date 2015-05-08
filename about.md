@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "This is what I do."
-header-img: "img/about-bg.jpg"
+header-img: "img/bg.jpg"
 ---
 
 Born in 1970, i live since then in a small village in bavaria. I am a husband and a proud father of two daughters.
